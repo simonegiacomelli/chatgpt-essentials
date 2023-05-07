@@ -1,6 +1,6 @@
 # Welcome to ChatGPT Essentials: Unlocking the Power of Prompt Engineering!
 
-![Engaging image related to ChatGPT](your-image-url.jpg)
+![Engaging image related to ChatGPT](img.png)
 
 Are you curious about ChatGPT? Interested in learning how to harness the power of prompt engineering for your projects? Then join us at this insightful and engaging event tailored for individuals who want to explore the world of ChatGPT and its practical applications!
 
